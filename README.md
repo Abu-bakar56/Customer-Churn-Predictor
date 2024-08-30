@@ -20,20 +20,21 @@ The Customer Churn Predictor is a Flask-based web application designed to predic
 
 Watch a video demonstration of the app in action:
 
-[![Video Demo](images/video_thumbnail.png)](https://www.youtube.com/watch?v=your-video-link)
+
+https://github.com/user-attachments/assets/245036cd-51fe-4003-8ae8-d3c19f6521f6
+
 
 ## Data Analysis
 
 Before building the prediction model, the dataset was thoroughly analyzed to uncover key patterns and insights. Below are some visualizations from the analysis:
 
-### 1. Customer Churn Distribution
-![Churn Distribution](images/churn_distribution.png)
+![aa](https://github.com/user-attachments/assets/5226673f-3f9e-4898-99c6-5cd1038e5a46)
+![ac](https://github.com/user-attachments/assets/54e4b059-6e6d-4789-a9a5-7a93119c3190)
+![ab](https://github.com/user-attachments/assets/33de4798-412d-4f31-8737-9de9ea05a187)
+![ad](https://github.com/user-attachments/assets/473f5b07-1afe-4dc8-b77c-fad34cda4304)
 
-### 2. Feature Importance
-![Feature Importance](images/feature_importance.png)
 
-### 3. Correlation Matrix
-![Correlation Matrix](images/correlation_matrix.png)
+many more analysis on Notebook Churn Data Analysis.
 
 
 ## Live Demo
@@ -77,10 +78,6 @@ Visit the link to try out the prediction model and explore the app's features.
 ## Model and Methodology
 
 The model was trained on a telecom customer dataset using various machine learning algorithms. After evaluating different models, the one with the highest accuracy was selected for deployment. Feature scaling, encoding, and hyperparameter tuning were key steps in the model development process.
-
-## Contributing
-
-If you want to contribute to this project, feel free to fork the repository and submit a pull request. Contributions are welcome!
 
 ## License
 
