@@ -79,15 +79,11 @@ Visit the link to try out the prediction model and explore the app's features.
 
 The model was trained on a telecom customer dataset using various machine learning algorithms. After evaluating different models, the one with the highest accuracy was selected for deployment. Feature scaling, encoding, and hyperparameter tuning were key steps in the model development process.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Contact
 
-For any inquiries or issues, please reach out to me at [your-email@example.com](mailto:your-email@example.com).
+For any inquiries or issues, please reach out to me at [abubakarshahzad730@gmail.com](mailto:abubakarshahzad730@gmail.com).
 
 ---
 
-Replace the placeholder links and email with your actual details, and make sure to include the images and video in your repository.
+
 
