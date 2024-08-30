@@ -66,7 +66,7 @@ Visit the link to try out the prediction model and explore the app's features.
 
 4. **Run the application:**
    ```bash
-   python app.py
+   python main.py
    ```
 
 ## Usage
