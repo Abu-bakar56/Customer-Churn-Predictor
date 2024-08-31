@@ -1,6 +1,5 @@
 aiohappyeyeballs==2.4.0
 asyncio==3.4.3
-os
 attrs==24.2.0
 blinker==1.8.2
 certifi==2024.7.4
