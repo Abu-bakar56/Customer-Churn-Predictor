@@ -41,7 +41,7 @@ many more analysis on Notebook Churn Data Analysis.
 
 The application is deployed and can be accessed online at:
 
-**[Customer Churn Predictor - Live Demo](https://wee-elyse-abubakar56-611b8c21.koyeb.app/)**
+**[Customer Churn Predictor - Live Demo](https://customer-churn-predictor-weql.onrender.com/)**
 
 Visit the link to try out the prediction model and explore the app's features.
 
